@@ -1,0 +1,11 @@
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T05:54:34.159Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:00:52.225Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:19.658Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:21.664Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:22.485Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:23.560Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:24.592Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:26.169Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:28.077Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:29.362Z
+app: SaludoApp | greeting: Hola desde Docker Compose! | timestamp: 2025-10-03T06:04:30.744Z
